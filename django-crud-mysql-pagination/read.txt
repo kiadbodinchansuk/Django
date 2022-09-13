@@ -1,0 +1,5 @@
+step 1 install connect mysql
+	-> pip install mysqlclient
+step 2 crate poll for product in mysql
+	->python manage.py startapp polls
+
