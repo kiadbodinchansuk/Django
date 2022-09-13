@@ -15,3 +15,7 @@
 * การสร้าง polls เช่น table product โดยใช้ Creating the product app ผ่าน cmd "python manage.py startapp product" 
  Ref. <a href="https://docs.djangoproject.com/en/dev/intro/tutorial01/"> python manage.py startapp product </a> 
 * การกำหนดแสดงตัวเลข เช่น ราคาสินค้าที่มี comma Ref. <a href="https://docs.djangoproject.com/en/dev/ref/contrib/humanize/#ref-contrib-humanize"> django.contrib.humaniz </a> 
+
+# Django with Microsoft SQL SERver'
+* Red https://django-mssql.readthedocs.io/en/latest/
+* install and config for setting.py Ref. https://django-mssql.readthedocs.io/en/latest/quickstart.html#installation
