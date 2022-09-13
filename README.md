@@ -5,6 +5,11 @@
 * <a href="https://github.com/kiadbodinchansuk/Django/tree/main/djangohello"> Django hello </a> การสร้าง First Project
 * <a href="https://github.com/kiadbodinchansuk/Django/tree/main/djangocrudmysql"> Django crud mysql </a> การสร้างรายการสินค้าเชื่อมต่อ mysql 
 
+# Django with tempalte html Ref. https://docs.djangoproject.com/en/4.1/ref/templates/
+* การประกาศตัวแปร variables Ref. https://docs.djangoproject.com/en/4.1/ref/templates/language/#variables
+* การใช้ Tag of Django Ref. https://docs.djangoproject.com/en/4.1/ref/templates/language/#tags
+* การใช้ condition ในหน้า html Ref. 
+
 # Django กับการแสดงข้อมูลต่างๆ หน้าเว็บไซต์
 * การใช้งาน contrib ต่างๆ (https://docs.djangoproject.com/en/dev/ref/contrib/)
 * การสร้าง polls เช่น table product โดยใช้ Creating the product app ผ่าน cmd "python manage.py startapp product" 
