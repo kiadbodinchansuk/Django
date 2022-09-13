@@ -1,3 +1,10 @@
+# Step setting for project
+* Create Database name such as cart
+* if you has mysql or mariadb. you can import product.sql in database
+* you can edit connect such as username , password and database name in setting.py 
+* you test run pass cmd "python manage.py runserver" in cmd. 
+* if success you will see step this below
+
 # Step 1. แสดงรายการสินค้า
 ![djangohello-5](https://user-images.githubusercontent.com/7127833/189819642-2c94b4b4-9490-458d-a036-2af435d8ba4c.PNG)
 
