@@ -6,4 +6,6 @@
 * <a href="https://github.com/kiadbodinchansuk/Django/tree/main/djangocrudmysql"> Django crud mysql </a> การสร้างรายการสินค้าเชื่อมต่อ mysql 
 
 # Django กับการแสดงข้อมูลต่างๆ หน้าเว็บไซต์
+* การสร้าง polls เช่น table product โดยใช้ Creating the product app ผ่าน cmd "python manage.py startapp product" 
+ Ref. <a href="https://docs.djangoproject.com/en/dev/intro/tutorial01/"> python manage.py startapp product </a> 
 * การกำหนดแสดงตัวเลข เช่น ราคาสินค้าที่มี comma Ref. <a href="https://docs.djangoproject.com/en/dev/ref/contrib/humanize/#ref-contrib-humanize"> django.contrib.humaniz </a> 
