@@ -5,3 +5,5 @@
 * <a href="https://github.com/kiadbodinchansuk/Django/tree/main/djangohello"> Django hello </a> การสร้าง First Project
 * <a href="https://github.com/kiadbodinchansuk/Django/tree/main/djangocrudmysql"> Django crud mysql </a> การสร้างรายการสินค้าเชื่อมต่อ mysql 
 
+# Django กับการแสดงข้อมูลต่างๆ หน้าเว็บไซต์
+* การกำหนดแสดงตัวเลข เช่น ราคาสินค้าที่มี comma Ref. <a href="https://docs.djangoproject.com/en/dev/ref/contrib/humanize/#ref-contrib-humanize"> django.contrib.humaniz </a> 
