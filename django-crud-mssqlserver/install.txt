@@ -22,7 +22,7 @@ setting to setting.py
             "NAME": "cart",
             "USER": "sa",
             "PASSWORD": "12345678",
-            "HOST": "DESKTOP-5DGUFK2\SQLEXPRESS",
+            "HOST": "DESKTOP-xxxxxx\SQLEXPRESS",
             "PORT": "1433",
             "OPTIONS": {"driver": "ODBC Driver 17 for SQL Server", 
             },
