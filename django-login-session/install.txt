@@ -1,0 +1,9 @@
+install session
+    1. check setting.py Install session in INSTALLED_APPS "django.contrib.sessions" and MIDDLEWARE "django.contrib.sessions.middleware.SessionMiddleware"
+    2. cmd python manage.py migrate 
+
+install bcryt encode password
+    -> cmd pip install django[argon2
+
+
+
