@@ -1,0 +1,35 @@
+install session
+    1. check setting.py Install session in INSTALLED_APPS "django.contrib.sessions" and MIDDLEWARE "django.contrib.sessions.middleware.SessionMiddleware"
+    2. cmd python manage.py migrate 
+
+install bcryt encode password
+    -> cmd pip install django[argon2
+
+install  cmd for install mssql
+    -> pip install django mssql-django
+
+install  cmd for install polls name products
+    Ref. https://docs.djangoproject.com/en/4.1/intro/tutorial01/
+    ->  python manage.py startapp products
+   
+
+
+setting to setting.py
+
+    #DATABASES = {
+        'default': {
+            "ENGINE": "sql_server.pyodbc",
+            "NAME": "cart",
+            "USER": "sa",
+            "PASSWORD": "12345678",
+            "HOST": "DESKTOP-5DGUFK2\SQLEXPRESS",
+            "PORT": "1433",
+            "OPTIONS": {"driver": "ODBC Driver 17 for SQL Server", 
+            },
+        }
+    }
+
+    #django.contrib.humanize in INSTALLED_APPS
+
+
+
