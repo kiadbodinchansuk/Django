@@ -1,4 +1,7 @@
 # Django connect mssqlserver
+# Config setting.py and Edit connect mssql server
+![djang-mssqlserver-6](https://user-images.githubusercontent.com/7127833/190086771-acda9138-0ea0-4fc7-aaa3-2a189c21e65e.PNG)
+
 # Step 1 show All products
 ![djang-mssqlserver-1](https://user-images.githubusercontent.com/7127833/190085738-fd5f745b-f940-4308-ac64-e90326aab33d.PNG)
 
