@@ -5,6 +5,8 @@
 * <a href="https://github.com/kiadbodinchansuk/Django/tree/main/djangohello"> Django hello </a> การสร้าง First Project
 * <a href="https://github.com/kiadbodinchansuk/Django/tree/main/djangocrudmysql"> Django crud mysql </a> การสร้างรายการสินค้าเชื่อมต่อ mysql 
 * <a href="https://github.com/kiadbodinchansuk/Django/tree/main/django-crud-mysql-pagination"> django-crud-mysql-pagination </a>  การแบ่งหน้าแสดงข้อมูลโดยการใช้ <a href="https://docs.djangoproject.com/en/4.0/_modules/django/core/paginator/"> django.core.paginator </a>  
+* <a href="https://github.com/kiadbodinchansuk/Django/tree/main/django-login-session"> django-login-session </a> การสร้าง session สำหรับ Login
+
 
 
 # Django with tempalte html Ref. https://docs.djangoproject.com/en/4.1/ref/templates/
